@@ -1,0 +1,39 @@
+[
+  {
+    "name": "dummy",
+    "type": "minion",
+    "manaCost": 1,
+    "attack": 1,
+    "defense": 1
+  },
+
+  {
+    "name": "another dummy",
+    "type": "minion",
+    "manaCost": 1,
+    "attack": 1,
+    "defense": 1
+  },
+
+  {
+    "name": "basic buff",
+    "type": "spell",
+    "speed": "SLOW",
+    "manaCost": 1
+  },
+
+  {
+    "name": "fast buff",
+    "type": "spell",
+    "speed": "FAST",
+    "manaCost": 1
+  },
+
+  {
+    "name": "burst buff",
+    "type": "spell",
+    "speed": "BURST",
+    "manaCost": 1
+  }
+
+]

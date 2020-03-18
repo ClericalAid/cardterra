@@ -1,0 +1,27 @@
+decks/buff.deck
+decks/buff.deck
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+play 1
+play 1
+play 1
+play 1
+play 1
+pass
+play 1
+pass
+print
+dump
+quit

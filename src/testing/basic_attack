@@ -1,0 +1,22 @@
+decks/default.deck
+decks/default.deck
+draw 0
+draw 0
+draw 0
+draw 1
+draw 1
+draw 1
+play 0
+play 0
+play 0
+play 0
+play 0
+play 0
+attack 0 1 2
+1 0 2 1
+print
+pass
+pass
+print
+dump
+quit

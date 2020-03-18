@@ -1,0 +1,4 @@
+#!/bin/bash
+
+java -jar plantuml.jar UML-diagram.txt
+xdg-open UML-diagram.png

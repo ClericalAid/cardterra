@@ -1,0 +1,53 @@
+[
+  {
+    "name": "basic buff",
+    "type": "buff",
+    "allegiance": "allied",
+    "location": "bench",
+    "selection": "human",
+    "choices": 1,
+    "attack": 1,
+    "defense": 1
+  },
+
+  {
+    "name": "fast buff",
+    "type": "buff",
+    "allegiance": "allied",
+    "location": "bench",
+    "selection": "human",
+    "choices": 1,
+    "attack": 1,
+    "defense": 1
+  },
+
+  {
+    "name": "burst buff",
+    "type": "buff",
+    "allegiance": "allied",
+    "location": "bench",
+    "selection": "human",
+    "choices": 1,
+    "attack": 1,
+    "defense": 1
+  },
+
+  {
+    "name": "basic debuff",
+    "type": "buff",
+    "allegiance": "enemy",
+    "location": "bench",
+    "selection": "human",
+    "choices": 1,
+    "attack": -1,
+    "defense": -1
+  },
+
+  {
+    "name": "Katarina",
+    "type": "recall",
+    "allegiance": "allied",
+    "location": "self",
+    "selection": "strongest"
+  }
+]

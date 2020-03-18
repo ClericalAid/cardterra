@@ -1,0 +1,36 @@
+decks/spell_speeds.deck
+decks/spell_speeds.deck
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+play 3
+play 3
+play 3
+play 3
+play 3
+play 3
+moves
+attack 0 1 2
+1 2
+moves
+pass
+pass
+moves
+print
+dump
+quit

@@ -1,0 +1,40 @@
+decks/multi_burst.deck
+decks/multi_burst.deck
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 0
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+draw 1
+play 3
+play 3
+play 3
+play 3
+play 3
+play 3
+attack 0 1 2
+1 2
+play 0 0
+play 0 0
+play 0 0
+pass
+play 0 0
+play 0 0
+pass
+pass
+print
+print
+dump
+quit
