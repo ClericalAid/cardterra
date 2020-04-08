@@ -3,16 +3,16 @@ This module implements cards. It has a card base class from which all other type
 inherit.
 
 Card
-Base class for cards
+Base class for cards. Minion, hero, and spell cards inherit from this
 
-Minion
-I guess these should be called followers
+    Minion
+    Follower cards with an attack and HP stat
 
-Hero
-Like minions, but can level up. And they cause a lot of problems for me.
+    Hero
+    Like minions, but can level up
 
-Spell
-Trigger an effect when played.
+    Spell
+    Trigger an effect when played.
 
 CardMapper
 Maps all the cards from the JSON file, into a dictionary database. Factory for cards.
