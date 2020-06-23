@@ -98,6 +98,9 @@ class Card:
 
     def activate(self, gameObject):
         """
+        activate()
+            parameters:
+                gameObject - the game object, which stores the game state
         Tells the card to begin tracking whatever is relevant to itself. For
         example, keeping track of allies killed
         """
